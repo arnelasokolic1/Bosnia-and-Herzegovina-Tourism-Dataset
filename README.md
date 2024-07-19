@@ -18,13 +18,6 @@ I created a survey form to gather information from tourists visiting Bosnia and 
    ```bash
    git clone https://github.com/arnelasokolic1/Bosnia-and-Herzegovina-Tourism-Dataset.git
 
-2.
-**Install Required Libraries**
-
-Make sure you have `pandas`, `seaborn`, `matplotlib`, and `wordcloud` installed. You can install them with:
-```bash
-pip install pandas seaborn matplotlib wordcloud
-
 ## Results 
 
 <div align="center">
