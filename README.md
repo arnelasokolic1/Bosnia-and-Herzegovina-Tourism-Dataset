@@ -1,5 +1,4 @@
 # Bosnia-and-Herzegovina-Tourism-Dataset
-# Bosnia and Herzegovina Tourism Insights
 
 This repository contains a dataset and analysis scripts aimed at understanding and improving the tourism experience in Bosnia and Herzegovina.
 
