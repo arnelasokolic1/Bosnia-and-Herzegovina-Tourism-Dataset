@@ -14,18 +14,18 @@
 </div>
 <br>
 <div align="center">
-  <img src="photo5.JPG" width="200" hspace="10">
-  <img src="photo6.JPG" width="200" hspace="10">
+  <img src="slika5.png" width="850" hspace="10">
+  <img src="photo6.png" width="850" hspace="10">
 </div>
 <br>
 <div align="center">
-  <img src="photo7.JPG" width="200" hspace="10">
-  <img src="photo8.JPG" width="200" hspace="10">
+  <img src="slika7.png" width="850" hspace="10">
+  <img src="slika8.png" width="850" hspace="10">
 </div>
 <br>
 <div align="center">
-  <img src="photo9.JPG" width="200" hspace="10">
-  <img src="photo10.JPG" width="200" hspace="10">
+  <img src="slika9.png" width="850" hspace="10">
+  <img src="slika10.png" width="850" hspace="10">
 </div>
 <br>
 <div align="center">
