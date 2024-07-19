@@ -4,13 +4,13 @@
 ## Results 
 
 <div align="center">
-  <img src="photo1.JPG" width="200" hspace="10">
-  <img src="photo2.JPG" width="200" hspace="10">
+  <img src="slika1.JPG" width="200" hspace="10">
+  <img src="slika2.JPG" width="200" hspace="10">
 </div>
 <br>
 <div align="center">
-  <img src="photo3.JPG" width="200" hspace="10">
-  <img src="photo4.JPG" width="200" hspace="10">
+  <img src="slika3.JPG" width="200" hspace="10">
+  <img src="slika4.JPG" width="200" hspace="10">
 </div>
 <br>
 <div align="center">
