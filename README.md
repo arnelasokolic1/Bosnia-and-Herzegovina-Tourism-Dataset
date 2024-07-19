@@ -15,7 +15,7 @@
 <br>
 <div align="center">
   <img src="slika5.png" width="850" hspace="10">
-  <img src="photo6.png" width="850" hspace="10">
+  <img src="slika6.png" width="850" hspace="10">
 </div>
 <br>
 <div align="center">
