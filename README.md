@@ -21,8 +21,8 @@ I created a survey form to gather information from tourists visiting Bosnia and 
 ## Results 
 
 <div align="center">
-  <img src="slika1.png" width="850" hspace="10">
-  <img src="slika2.png" width="850" hspace="10">
+  <img src="slika1.png" width="700" hspace="10">
+  <img src="slika2.png" width="700" hspace="10">
 </div>
 <br>
 <div align="center">
